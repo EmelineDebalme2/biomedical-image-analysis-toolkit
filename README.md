@@ -7,9 +7,6 @@ Small, self-contained demo repository showcasing:
 - per-object morphological & intensity feature extraction
 - CSV export + overlay figure generation
 
-> Note: This repo is a public demo (non-confidential) created to illustrate coding style and reproducibility.
-> It does not include any proprietary or institution-confidential code/data.
-
 ## Quickstart
 
 ```bash
